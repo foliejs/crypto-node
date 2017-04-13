@@ -1,0 +1,14 @@
+{
+  "name": "crypto-node",
+  "version": "1.0.0",
+  "description": "crypto node for teambition",
+  "main": "index.js",
+  "author": "sunnode <m18205253820@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "fs": "^0.0.1-security",
+    "jssha": "^2.2.0",
+    "randbytes": "^0.0.1"
+  }
+}
